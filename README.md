@@ -15,3 +15,13 @@ Early detection of cardiovascular diseases through assessment of cardiac functio
 
 ## Paper link
 - Official: https://bmvc2022.mpi-inf.mpg.de/0176.pdf
+
+## Endocardium Segmentation Results
+<p align="center">
+    <img src="images/endo_seg.png" alt="Endo Segmentation Results">
+</p>
+
+## Ejection Fraction Estimation Results
+<p align="center">
+    <img src="images/ef_results.png" alt="EF Results">
+</p>
