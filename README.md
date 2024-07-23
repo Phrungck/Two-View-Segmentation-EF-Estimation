@@ -4,7 +4,7 @@
 
 ## Author's Note:
 
-Frank cally Tabuco is the sole developer, researcher, and writer of this work in 2D echocardiogram segmentation and automated ejection fraction estimation. Rest of the authors are panels and advisers.
+Frank Cally Tabuco is the sole developer, researcher, and writer of this work in 2D echocardiogram segmentation and automated ejection fraction estimation. Rest of the authors are panels and advisers.
 
 Official implementation of the paper: "Two-View Left Ventricular Segmentation and Ejection Fraction Estimation in 2D Echocardiograms" submitted at the 33rd British Machine Vision Conference.
 
